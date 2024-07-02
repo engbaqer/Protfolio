@@ -6,9 +6,8 @@ import Contact from './components/4-contact/contact';
 import Footer from './components/5-footer/footer';
 // import MM from './components/mmmm/Main'
 
-function App() {
-
-
+function App() { 
+  
   return (
     <div id='home' className='container'>
       <Header />
