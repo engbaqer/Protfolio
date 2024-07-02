@@ -5,7 +5,7 @@ export default function hearo() {
     <section className="flex">
       <div className="left_section  ">
         <div className="photo_icon flex">
-          <img src="../../../public/my.photo.png" alt="" className="my_photo" />
+          <img src="https://i.imgur.com/9b0v5eh.png" alt="" className="my_photo" />
           <div className="icon-checkmark"></div>
         </div>
         <h1>junior Web developer & Computer engineering student</h1>

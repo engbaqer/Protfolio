@@ -7,7 +7,7 @@ export default function main() {
     <div className='main flex '>
       
       <div className="card" >
-        <img src="../../../public/p1.jpg" alt="" />
+        <img src="https://i.imgur.com/QHgiTe2.jpeg" alt="" />
         <div className='box '>
           <h3>LOADING....</h3>
           <p>loding....</p>
